@@ -1,6 +1,6 @@
 const courses = require("../data/courses.json");
 const students = require("../data/students.json");
-//git commit test 2
+//git commit test 3
 class Data{
     constructor(students, courses){
         this.students = students;
